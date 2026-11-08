@@ -2,7 +2,7 @@
 My journey into Computational Finance, Programming, Mathematics, Data Analysis and Quantitative Finance.
 ## About Me
 
-I'm Hussain Manzoor, a Computational Finance undergraduate student at NED University of Engineering & Technology.
+I'm Muhammad Hussain Manzoor, a Computational Finance undergraduate student at NED University of Engineering & Technology.
 
 I'm interested in programming, mathematics, statistics, data analysis and quantitative finance.
 
